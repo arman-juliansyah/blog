@@ -17,7 +17,7 @@ php artisan make:observer PostObserver
 
 5. terdaftar di indexController
 
-6.
+6. terdapat di folder resources
 
 7. php artisan db:seed
 php artisan make:seeder UserTableSeeder
